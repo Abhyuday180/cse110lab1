@@ -1,5 +1,12 @@
 # Welcome to My GitHub Page
 
+## Table of Contents
+
+- [About Me](#about-me)
+- [Contact](#contact)
+
+---
+
 ## About Me
 
 Hey! I’m a **sophomore at the University of California, San Diego**, studying _Mathematics and Computer Science_.  
@@ -7,12 +14,6 @@ When I’m not writing code, you’ll probably catch me deep in a game of **ches
 
 ---
 
-## Table of Contents
-
-- [About Me](#about-me)
-- [Contact](#contact)
-
----
 
 ## Contact
 
