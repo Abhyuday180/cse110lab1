@@ -7,6 +7,7 @@ Outside of the classroom and the code editor, I’m a **huge sports fan**. I’v
 I'm a **Chelsea FC superfan** (Blue is the color! 💙), and I proudly support my hometown team as a **San Diego FC season ticket holder**. On a more chill day, you'll probably find me enjoying a good game of **chess** or jumping into a round of **trivia** – I'm always down to learn something new.
 
 ## 🔭 What I'm Working On
+- CSE110 Lab1 
 - Applying to internships
 - Learning [German]
 
@@ -26,7 +27,7 @@ I'm a **Chelsea FC superfan** (Blue is the color! 💙), and I proudly support m
 Big fan of **Santan Dave**'s lyricism and **Lil Wayne**'s timeless flow.  
 Music keeps me focused while coding and hyped when I’m out and about.
 
-[![Spotify](https://novatorem-abhyuday180.vercel.app/api/spotify)](https://open.spotify.com/user/abhyuday)
+[![Spotify](https://novatorem-abhyuday180.vercel.app/api/spotify)](https://open.spotify.com/user/31gqog522vt3dc3z7hyvc73in4zq)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhyuday-singh-3b6027307/)
