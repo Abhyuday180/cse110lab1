@@ -26,7 +26,7 @@ I'm a **Chelsea FC superfan** (Blue is the color! 💙), and I proudly support m
 Big fan of **Santan Dave**'s lyricism and **Lil Wayne**'s timeless flow.  
 Music keeps me focused while coding and hyped when I’m out and about.
 
-[![Spotify](https://novatorem-abhyuday180.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
+[![Spotify](https://novatorem-abhyuday180.vercel.app/api/spotify)](https://open.spotify.com/user/abhyuday)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhyuday-singh-3b6027307/)
@@ -35,7 +35,7 @@ Music keeps me focused while coding and hyped when I’m out and about.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abhyuday180&show_icons=true&theme=radical)
 
 ## ⚡ Fun fact
-I've never missed more than 20 minutes of a Chelsea game since 2019 – even if it means waking up before sunrise on the West Coast.  
+I haven't missed a Chelsea game since 2019 – even if it means waking up before sunrise on the West Coast.  
 I'm also a vexillophile!
 
 ---
