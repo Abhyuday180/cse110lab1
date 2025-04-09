@@ -4,7 +4,7 @@ I'm a sophomore at **UC San Diego**, majoring in *Mathematics and Computer Scien
 Outside of the classroom and the code editor, I'm a **huge sports fan**. I've been playing **field hockey** and **soccer** since I was a kid, and I still carry that same love for the game today.  
 I'm a **Chelsea FC superfan** (Blue is the color! 💙), and I proudly support my local team as a **San Diego FC season ticket holder**. On a more chill day, you'll probably find me enjoying a good game of **chess** or jumping into a round of **trivia** – I'm always down to learn something new.
 ## 🔭 What I'm Working On
-- [CSE110 Lab1](https://github.com/abhyuday180/CSE110-Lab1)
+- [CSE110 Lab1](https://github.com/Abhyuday180/cse110lab1/blob/main/README.md)
 - Applying to internships
 - Learning [German]
 ## 💻 Tech Stack
